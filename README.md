@@ -132,6 +132,6 @@ Successfully configured firewall rules on Windows and Kali Linux. Initially, Tel
 
 ## Report
 
-Refer to `TASK 4 WIN FW CONFIG AND PORT BLOCKING.pdf for screenshots and detailed testing evidence.
+Refer to `TASK 4 WIN FW CONFIG AND PORT BLOCKING.pdf` for screenshots and detailed testing evidence.
 
 **Note:** IP addresses have been hidden for privacy.
